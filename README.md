@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/aritra01-coder/Income-Prediction-Model-Analysis-and-Evaluation-using-Census-Data--ML/blob/37070181a49480af09b0314d9713b54f505f7913/media_18f1d9729aaef33e48af708a3589141145f5d48e4.png)
+![Results](https://github.com/aritra01-coder/Income-Prediction-Model-Analysis-and-Evaluation-using-Census-Data--ML/blob/37070181a49480af09b0314d9713b54f505f7913/media_18f1d9729aaef33e48af708a3589141145f5d48e4.png)
 # Income-Prediction-Model-Analysis-and-Evaluation-using-Census-Data--ML
 
 
